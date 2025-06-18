@@ -4,16 +4,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/vamsiprasad-ctrl/Vamsi-Portfolio)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/vamsiprasad-ctrl/Vamsi-Portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/vamsiprasad-ctrl/Vamsi-Portfolio)
-![GitHub license](https://img.shields.io/github/license/vamsiprasad-ctrl/Vamsi-Portfolio)
+[![License: MIT](https://img.shields.io/github/license/vamsiprasad-ctrl/Vamsi-Portfolio?style=for-the-badge)](LICENSE)
 
 Welcome to my personal portfolio repository! This project showcases my skills, resume, and interactive frontend work using HTML, CSS, and JavaScript.
 
 
-# 🌟 Vamsi Prasad – Portfolio Website
-
-Welcome to my personal portfolio repository! This project showcases my skills, resume, and interactive frontend work using HTML, CSS, and JavaScript.
-
----
 
 ## 📌 Project Overview
 
@@ -28,16 +23,19 @@ This portfolio contains:
 ## 🔗 Live Demo
 
 **[View Live on GitHub Pages](https://vamsiprasad-ctrl.github.io/Vamsi-Portfolio/)**  
-*(Make sure GitHub Pages is enabled in repo settings)*
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Git & GitHub**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
@@ -48,13 +46,13 @@ git clone https://github.com/vamsiprasad-ctrl/Vamsi-Portfolio.git
 cd Vamsi-Portfolio
 # Open index.html in your browser
 
-
-## 🚀 Getting Started
-
+## 📁 Folder Structure
 Vamsi-Portfolio/
-│
-├── index.html          # Main webpage
-├── style.css           # Stylesheet
-├── script.js           # JavaScript file
-├── Resume Vamsi.docx   # Resume (Downloadable)
-├── assets/images/      # Images
+├── index.html             # Main webpage
+├── style.css              # CSS styles
+├── script.js              # JavaScript logic
+├── Resume Vamsi.docx      # Downloadable Resume
+├── assets/
+│   └── images/            # Project images
+
+
