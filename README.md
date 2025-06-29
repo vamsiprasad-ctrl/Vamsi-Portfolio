@@ -54,5 +54,6 @@ Vamsi-Portfolio/
 ├── Resume Vamsi.docx      # Downloadable Resume
 ├── assets/
 │   └── images/            # Project images
+```
 
 
